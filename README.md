@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2> Hi, I'm Martín Palacios! </h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.upv.es">Universidad Politécnica de Valencia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.inetum.com">Inetum</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**martinpa93/martinpa93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: martinpa93](https://www.linkedin.com/in/martinpa93/)](https://www.linkedin.com/in/martinpa93/)
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const mpa = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Java, PHP],
+  tools: [Angular, React, Redux, Ionic, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "hexagonal layer"],
+  techCommunities: {},
+}
+```
